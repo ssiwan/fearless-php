@@ -1,0 +1,5 @@
+#Adaptive Cards for .NET
+
+ The AdaptiveCards library for serializing to/from JSON
+ The AdaptiveCards.Rendering.Wpf renderer, which also provides the ability to do server-side card-to-PNG rendering
+ The AdaptiveCards.Rendering.Html renderer for server-side HTML generation
